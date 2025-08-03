@@ -6,12 +6,6 @@ This project was completed as part of the CAB320 Artificial Intelligence unit at
 
 This project implements a motion planning agent for the classic puzzle game **Sokoban**, where an AI agent must push weighted boxes to goal positions in a warehouse-like environment. The goal is to minimize the cost of moves using informed search strategies.
 
-## 📁 Contents
-
-- `mySokobanSolver.ipynb` — the core implementation of the AI solver.
-- `report.pdf` — the project report explaining the methodology, heuristics, testing, and performance.
-- (Optional) `example_puzzles/` — sample warehouse puzzle text files.
-
 ## 🚀 Technologies Used
 
 - Python
